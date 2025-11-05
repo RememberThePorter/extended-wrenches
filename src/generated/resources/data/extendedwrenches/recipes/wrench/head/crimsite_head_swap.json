@@ -1,9 +1,9 @@
 {
   "type": "extendedwrenches:wrench_material_swap",
   "addition": {
-    "item": "minecraft:netherite_ingot"
+    "tag": "create:stone_types/crimsite"
   },
-  "material": "extendedwrenches:netherite",
+  "material": "extendedwrenches:crimsite_head",
   "part": "head",
   "template": {
     "item": "extendedwrenches:wrench_head_augment"
